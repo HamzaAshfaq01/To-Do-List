@@ -14,6 +14,6 @@ A list of tasks that need to be completed, typically organized in order of prior
 <h2>Main JS functions and methods</h2>
 <li>Local Storage: (https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)</li>
 <h2>Preview</h2>
-(https://ali-tahir4024.github.io/To-Do-List-app-JS/).
+(https://hamzaashfaq01.github.io/To-Do-List/).
 
 <h2>Please rename the file "index.php" to "index.html" to use or run it</h2>
